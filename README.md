@@ -1,5 +1,5 @@
 # Projekt Matrjoschka
-Humble attempt in exploring E.T.A. Hoffmann's realities visually. 
+*Humble attempt in exploring E.T.A. Hoffmann's realities visually.* 
 
 ## Forschungsgegenstand
 E.T.A. Hoffmann ist *der* Vertreter der Deutschen Romantik. In seinen Werken baut er gemeinhin eine Vielzahl von Rahmen- und Binnenerzählungen auf, die zudem in verschiedenen Wirklichkeiten verortet sind. Ganz in der Tradition der Romantik sind mindestens zwei Wirklichkeiten nachweisbar: Die *Tatsächliche Wirklichkeit* und die *Imaginäre Wirklichkeit*. 
@@ -12,3 +12,4 @@ Mit dem *Projekt Matrjoschka* soll der Versuch gestartet werden, die Zusammenhä
 
 ## ›Matrjoschka‹?!?
 Der Projektname *Matrjoschka* nimmt Bezug auf die russischen Puppen, die ebenfalls mehrfach ineinander geschachtelt werden. 
+:dolls:
