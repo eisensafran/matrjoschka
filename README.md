@@ -14,3 +14,4 @@ Oder anders ausgedrückt: Wir kartografieren die Welten von Medardus (*Die Elixi
 
 ## ›Matrjoschka‹?!?
 Der Projektname *Matrjoschka* nimmt Bezug auf die russischen Puppen, die ebenfalls mehrfach ineinander geschachtelt werden. 
+:dolls:
