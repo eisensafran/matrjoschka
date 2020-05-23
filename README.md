@@ -9,6 +9,9 @@ Mit dem *Projekt Matrjoschka* soll der Versuch gestartet werden, die Zusammenhä
 
 Oder anders ausgedrückt: Wir kartografieren die Welten von Medardus (*Die Elixiere des Teufels*), Theodors (*Das öde Haus*), Nathanaels (*Der Sandmann*) und von Katzen, Mäusen und sonstigen Protagonisten in Hoffmanns Œuvre.  
 
+Beispiel (*Das öde Haus*):
+![Alt text](img/DasOedeHaus.jpg?raw=true "Infografik Das öde Haus")
+
 ## Tools
 *Matrjoschka* verwendet zur Zeit Affinity Designer. Als Ausgabemedium ist PDF und SVG angedacht. 
 
