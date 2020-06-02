@@ -16,7 +16,7 @@ Beispiel (*Das öde Haus*):
 *Matrjoschka* verwendet zur Zeit Affinity Designer. Als Ausgabemedium ist PDF und SVG angedacht. 
 
 ## Aktueller Stand
-Das Projekt befinden sich zur Zeit in einem sehr frühen (im Sinne von *unfassbar verdammt unglaublich früh!*) Stadium. Ich bin zur Zeit noch massiv mit dem Design unzufrieden und arbeite daran. Möglicherweise ist der obige Screenshot also bereits etwas angestaubt und veraltelt. Der aktuelle Stand befindet sich immer im `*.afdesign` im Ordner `grafiken`.  
+Das Projekt befinden sich zur Zeit in einem sehr frühen (im Sinne von *unfassbar verdammt unglaublich früh!*) Stadium. Ich bin zur Zeit noch massiv mit dem Design unzufrieden und arbeite daran. Möglicherweise ist der obige Screenshot also bereits etwas angestaubt und veraltet. Der aktuelle Stand findet sich immer in den jeweiligen `*.afdesign`-Dateien im Ordner `grafiken`.  
 
 ## ›Matrjoschka‹?!?
 Der Projektname *Matrjoschka* nimmt Bezug auf die russischen Puppen, die ebenfalls mehrfach ineinander geschachtelt werden. 
